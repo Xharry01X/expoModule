@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["BluepeerModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.bluepeer.BluepeerModule"]
+  }
+}
