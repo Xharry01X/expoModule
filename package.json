@@ -1,7 +1,7 @@
 {
   "name": "bluepeer",
   "version": "0.1.0",
-  "description": "My new module",
+  "description": "This will emit some data",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
@@ -21,14 +21,16 @@
     "bluepeer",
     "Bluepeer"
   ],
-  "repository": "https://github.com/Xharry01X/bluepeer",
+  "repository": "https://github.com/Xharry01X/expoModule",
   "bugs": {
-    "url": "https://github.com/Xharry01X/bluepeer/issues"
+    "url": "https://github.com/Xharry01X/expoModule/issues"
   },
-  "author": "Harry 🦀 <harshitsingh50621@gmail.com> (https://github.com/Xharry01X)",
+  "author": "Xharry01X <harshitsingh50621@gmail.com> (GetMerged)",
   "license": "MIT",
-  "homepage": "https://github.com/Xharry01X/bluepeer#readme",
-  "dependencies": {},
+  "homepage": "https://github.com/Xharry01X/expoModule#readme",
+  "dependencies": {
+    "expo-dev-client": "~6.0.13"
+  },
   "devDependencies": {
     "@types/react": "~19.1.0",
     "expo-module-scripts": "^5.0.7",
