@@ -5,6 +5,12 @@
         "projectId": "2f88a9a8-0f3c-48fb-921d-89a1f6926e9c"
       }
     },
-    "owner": "harshit-1245"
+    "owner": "harshit-1245",
+    "android": {
+      "package": "com.harshit1245.bluepeer"
+    },
+    "ios": {
+      "bundleIdentifier": "com.harshit1245.bluepeer"
+    }
   }
 }

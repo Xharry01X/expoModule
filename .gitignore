@@ -55,3 +55,7 @@ yarn-error.log
 
 # Expo
 .expo/*
+
+
+android/gradle.properties
+android/app/my-upload-key.keystore
